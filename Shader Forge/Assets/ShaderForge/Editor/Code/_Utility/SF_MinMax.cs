@@ -32,3 +32,4 @@ public class SF_MinMax {
 	}
 
 }
+
