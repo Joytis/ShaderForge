@@ -1,0 +1,48 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"file_exclude_patterns": [
+				"*.meta",
+				"*.asset", 
+				"*.mat", 
+				"*.sln", 
+				"*.csproj", 
+				"*.userprefs",
+				"*.anim",
+				"*.prefab",
+				"*.unity",
+				"*.controller",
+				"*.log",
+				"*.fbx",
+				"*.unitypackage"
+			],
+			"folder_exclude_patterns": [
+				"Temp",
+				"Builds",
+				"obj",
+				"RewiredBackup",
+				"Library",
+				"ProjectSettings",
+				".vs",
+				"Assets/Rewired",
+				"Assets/TextMesh Pro",
+				"Assets/Prefabs",
+				"Assets/Scenes",
+				"Assets/Fonts",
+				"Assets/Materials",
+				"Assets/Editor Default Resources",
+				"Assets/Resources",
+				"Assets/Gizmos",
+				"Assets/StreamingAssets",
+				"node_modules",
+				"Build",
+				"Builds",
+				"./FMOD",
+				"Packages"
+			]
+		}
+	],
+	"solution_file": "./Shader Forge/ShaderForge.sln"
+}

@@ -1,0 +1,1977 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"De",
+				"DisableHitboxes()\tvoid"
+			],
+			[
+				"Light",
+				"LIGHT_ATTACK_FT\tStates"
+			],
+			[
+				"ICombatStats",
+				"ICombatStats"
+			],
+			[
+				"Atta",
+				"AttackSpeed"
+			],
+			[
+				"Approach",
+				"APPROACH_TARGET"
+			],
+			[
+				"lightAttackIn",
+				"lightAttackInfo"
+			],
+			[
+				"Attack",
+				"ATTACK_WINDUP"
+			],
+			[
+				"Dive",
+				"DIVE_MOVE\tStates"
+			],
+			[
+				"state",
+				"stateSystem"
+			],
+			[
+				"Sc",
+				"ScriptableObject\tScanType"
+			],
+			[
+				"Beha",
+				"Behaviour"
+			],
+			[
+				"IV",
+				"IValidationInfo"
+			],
+			[
+				"Pro",
+				"PropertyTree"
+			],
+			[
+				"LoadA",
+				"LoadAssetAtPath<T>(string assetPath)\tT"
+			],
+			[
+				"DJ_Walk",
+				"DJ_WALK_MONSTER"
+			],
+			[
+				"HitStunn",
+				"HIT_STUNNED"
+			],
+			[
+				"Dash_",
+				"DASH_JUMP"
+			],
+			[
+				"GROUND",
+				"GROUND_UPATTACK"
+			],
+			[
+				"JUMP",
+				"JUMP_SQUAT"
+			],
+			[
+				"HitStun",
+				"HitStunInfo"
+			],
+			[
+				"ISer",
+				"ISerializationCallbackReceiver\t(PlayerEnchantmentData.cs)"
+			],
+			[
+				"Serai",
+				"SerializeField"
+			],
+			[
+				"ValueDrop",
+				"ValueDropdownList"
+			],
+			[
+				"Horizon",
+				"HorizontalGroup\t(HorizontalGroupAttributeExamples.cs)"
+			],
+			[
+				"SEri",
+				"SerializedScriptableObject\tSerializedScriptableObject"
+			],
+			[
+				"Seri",
+				"Sirenix\tSirenix"
+			],
+			[
+				"Abs",
+				"Abs(int value)\tint"
+			],
+			[
+				"runtime",
+				"runtimeEnchantmentPool"
+			],
+			[
+				"shuf",
+				"shuffledList"
+			],
+			[
+				"seriali",
+				"serializedEnchantmentPool"
+			],
+			[
+				"ICo",
+				"ICombatStats"
+			],
+			[
+				"IEnc",
+				"IEnchantmentComponent"
+			],
+			[
+				"Iench",
+				"IEnchantmentComponent\tIEnchantmentComponent"
+			],
+			[
+				"IEnchant",
+				"IEnchantmentComponent"
+			],
+			[
+				"E",
+				"EnchComponentArgs\tComponentArgs { get; }"
+			],
+			[
+				"Increase",
+				"IncreaseAttackSpeed(int unit)\tvoid"
+			],
+			[
+				"IEOnAttack",
+				"IEOnAttackHit"
+			],
+			[
+				"OnAttack",
+				"OnAttackHit\t(TestAllEnchantment.cs)"
+			],
+			[
+				"IEOnAtta",
+				"IEOnAttackHit\t(PlayerEnchantmentData.cs)"
+			],
+			[
+				"AttackStart",
+				"AttackStartedEvent\t(PlayerEnchantments.cs)"
+			],
+			[
+				"AttackSt",
+				"AttackStartedEvent\tAttackStartedEvent"
+			],
+			[
+				"PlayerP",
+				"PlayerPersistentData\tPlayerPersistentData"
+			],
+			[
+				"RaiseA",
+				"RaiseAttackHitEvent"
+			],
+			[
+				"current",
+				"currentTime"
+			],
+			[
+				"extra",
+				"extraDamage"
+			],
+			[
+				"Trans",
+				"TransformDamage\t(IEnchantments.cs)"
+			],
+			[
+				"Transform",
+				"TransformDamageEnchants\tDictionary<Type, IETransformsDamage> { get; }"
+			],
+			[
+				"CombatCon",
+				"CombatController3D\tCombatController3D"
+			],
+			[
+				"SimpleAtta",
+				"SimpleAttackData"
+			],
+			[
+				"initial",
+				"initialHealth"
+			],
+			[
+				"Des",
+				"DestroyImmediate(Object obj)\tvoid"
+			],
+			[
+				"GetCom",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"PlayerPer",
+				"PlayerPersistentData"
+			],
+			[
+				"Get",
+				"GetComponents<T>()\tT[]"
+			],
+			[
+				"get",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"PlayerEn",
+				"PlayerEnchantmentData\t(PlayerEnchantments.cs)"
+			],
+			[
+				"Player",
+				"PlayerPersistentData"
+			],
+			[
+				"PlayerPersis",
+				"PlayerPersistentData\t(PlayerPersistentData.cs)"
+			],
+			[
+				"CombatSta",
+				"CombatStatsData"
+			],
+			[
+				"maxh",
+				"maxHealthStart\tint"
+			],
+			[
+				"CombatStats",
+				"CombatStatsPackage\t(PlayerCombatStats.cs)"
+			],
+			[
+				"MaxHealth",
+				"MaxHealthChangedEvent\t(PlayerCombatStats.cs)"
+			],
+			[
+				"MaxH",
+				"MaxHealth\tint { get; }"
+			],
+			[
+				"Unad",
+				"UnadjustedAttackSpeed"
+			],
+			[
+				"AttackSpeed",
+				"AttackSpeedChangedEvent"
+			],
+			[
+				"ICombatSta",
+				"ICombatStatsRaisesEvents\t(ICombatStatsRaisesEvents.cs)"
+			],
+			[
+				"ICombatSt",
+				"ICombatStats\t(HealthComponent.cs)"
+			],
+			[
+				"SetMax",
+				"SetMaxHealthExt(int newMax, bool adjustDifference)\tvoid"
+			],
+			[
+				"PlayerCombatSta",
+				"PlayerCombatStatsContainer\t(PlayerCombatStats.cs)"
+			],
+			[
+				"player",
+				"playerStats"
+			],
+			[
+				"Calc",
+				"CalculateAttackSpeed(int unadjAttackSpeed)\tfloat"
+			],
+			[
+				"unadju",
+				"UnadjustedRange\tint { get; }"
+			],
+			[
+				"SetMinMaxHea",
+				"SetMinMaxHealthExt()\tvoid"
+			],
+			[
+				"Unadjusted",
+				"UnadjustedMaxHealth"
+			],
+			[
+				"Combatsat",
+				"CombatStatsPackage\t(PlayerCombatStats.cs)"
+			],
+			[
+				"AddTra",
+				"AddTrauma"
+			],
+			[
+				"Add",
+				"AddTrauma\t(CameraShakeOnHit.cs)"
+			],
+			[
+				"Persis",
+				"PersistentCameraShakeData2D\t(PersistentCameraShakeData2D.cs)"
+			],
+			[
+				"enchant",
+				"enchantmentContainer"
+			],
+			[
+				"enchan",
+				"enchantmentContainer"
+			],
+			[
+				"Check",
+				"CheckHealthBasedEnchantsExt(IEnchantments enchs)\tvoid"
+			],
+			[
+				"IEnchan",
+				"IEnchantmentComponent"
+			],
+			[
+				"IE",
+				"IEnchantmentComponent"
+			],
+			[
+				"enc",
+				"enchantmentContainer"
+			],
+			[
+				"IEn",
+				"IEnchantments\t(IEnchantments.cs)"
+			],
+			[
+				"AddWeapon",
+				"AddWeaponEnchantmentExt(IEnch we, GameObject parent)\tvoid"
+			],
+			[
+				"Start",
+				"StartCoroutine\t(PlayerEnchantmentsContainer.cs)"
+			],
+			[
+				"AttackHitSubscriber_",
+				"AttackHitSubscriber_OnAirHit"
+			],
+			[
+				"AttackHitSub",
+				"AttackHitSubscriber_OnFinal"
+			],
+			[
+				"IEnch",
+				"IEnchantments"
+			],
+			[
+				"IEN",
+				"IEnchantments\t(IEnchantments.cs)"
+			],
+			[
+				"DeAc",
+				"DeactivateWhileFullEnchants()\tvoid"
+			],
+			[
+				"bloo",
+				"bloodiedActive"
+			],
+			[
+				"ActivateFull",
+				"ActivateWhileFullEnchants()\tvoid"
+			],
+			[
+				"PlayerEnch",
+				"PlayerEnchantmentsContainer\t(PlayerEnchantmentsContainer.cs)"
+			],
+			[
+				"AttackRe",
+				"AttackReceivedEvent"
+			],
+			[
+				"Seral",
+				"SerializeField\t(PlayerController.cs)"
+			],
+			[
+				"controlled",
+				"controlledHitboxIds"
+			],
+			[
+				"attack",
+				"attackActive"
+			],
+			[
+				"mesh",
+				"sharedMesh\tMesh { get; set; }"
+			],
+			[
+				"Skin",
+				"SkinnedMeshRenderer\tSkinnedMeshRenderer"
+			],
+			[
+				"AttackReceive",
+				"AttackReceived\t(ReceivesKnockbackOnAttacked.cs)"
+			],
+			[
+				"AttackR",
+				"AttackReceivedEvent"
+			],
+			[
+				"FireAtta",
+				"FireAttackReceivedEvent\t(CombatController.cs)"
+			],
+			[
+				"AttackRece",
+				"AttackReceivedEvent\t(HitLag.cs)"
+			],
+			[
+				"BoxCo",
+				"BoxCollider2D"
+			],
+			[
+				"Sca",
+				"ScantyBasicAttack"
+			],
+			[
+				"other",
+				"otherprop"
+			],
+			[
+				"UNity",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"AreNOt",
+				"AreNotEqual<T>(T expected, T actual)\tvoid"
+			],
+			[
+				"hitLag",
+				"hitLagFramesForChain"
+			],
+			[
+				"Clamp",
+				"Clamp(int value, int min, int max)\tint"
+			],
+			[
+				"Raycast",
+				"RaycastHit2D"
+			],
+			[
+				"Contains",
+				"Contains(T item)\tbool"
+			],
+			[
+				"Ser",
+				"SerializeField\t(EnchAoeOnJump.cs)"
+			],
+			[
+				"Encha",
+				"Enchantments"
+			],
+			[
+				"encht",
+				"enchantments"
+			],
+			[
+				"OverlCir",
+				"OverlapCircleAll(Vector2 point, float radius, int layerMask)\tCollider2D[]"
+			],
+			[
+				"IEOnFin",
+				"IEOnFinalAttackHit\tIEOnFinalAttackHit"
+			],
+			[
+				"SEriali",
+				"SerializeField\tSerializeField"
+			],
+			[
+				"FMODSimple",
+				"FMODSimpleEffectPlayer\t(FMODSimpleEffectPlayer.cs)"
+			],
+			[
+				"PlayEffe",
+				"PlayEffectWorld(string name)\tvoid"
+			],
+			[
+				"Pl",
+				"PlayEffectWorld(string name)\tvoid"
+			],
+			[
+				"effect",
+				"effectDict"
+			],
+			[
+				"Particle",
+				"ParticleDictionary"
+			],
+			[
+				"stat",
+				"stateSystem"
+			],
+			[
+				"aerai",
+				"aerialJumps"
+			],
+			[
+				"finished",
+				"finishedHitboxes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "shader-forge.sublime-project",
+			"settings":
+			{
+				"buffer_size": 810,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Shader Forge/Assembly-CSharp.csproj",
+			"settings":
+			{
+				"buffer_size": 8121,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Shader Forge/Assets/ShaderForge/Editor/Code/_Utility/GUILines.cs.meta",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Shader Forge/Assets/ShaderForge/Editor/Code/_Utility/GUILines.cs",
+			"settings":
+			{
+				"buffer_size": 13361,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"next",
+				"OmniSharpSublime: Next Code Issue"
+			],
+			[
+				"auto",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"locate",
+				"File: Locate"
+			],
+			[
+				"surr",
+				"Surround: delete surround"
+			],
+			[
+				"delete sur",
+				"Surround: delete surround"
+			],
+			[
+				"sur",
+				"Surround: delete surround"
+			],
+			[
+				"delete surr",
+				"Surround: delete surround"
+			],
+			[
+				"delete su",
+				"Surround: delete surround"
+			],
+			[
+				"Surr",
+				"Surround: change surround"
+			],
+			[
+				"omni",
+				"OmniSharpSublime: Next Code Issue"
+			],
+			[
+				"loca",
+				"File: Locate"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"fix",
+				"OmniSharpSublime: Fix Code Issue"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"paste",
+				"Text Pastry: Paste Lines"
+			],
+			[
+				"newFile",
+				"File: New File Relative to Current View"
+			],
+			[
+				"locae",
+				"File: Locate"
+			],
+			[
+				"file",
+				"File: Locate"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"text",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"OmniSharp fix",
+				"OmniSharpSublime: Fix Code Issue"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"omnisharp next",
+				"OmniSharpSublime: Next Code Issue"
+			],
+			[
+				"Rename",
+				"File: Rename"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"reane",
+				"Rename File"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"next ",
+				"OmniSharpSublime: Next Code Issue"
+			],
+			[
+				"next code",
+				"OmniSharpSublime: Next Code Issue"
+			],
+			[
+				"OmniSharp: next",
+				"OmniSharpSublime: Next Code Issue"
+			],
+			[
+				"show",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"OmniSharp",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"hide",
+				"OmniSharpSublime: Hide Info Panel"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"show ",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"show info",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"Omni",
+				"OmniSharpSublime: Hide Info Panel"
+			],
+			[
+				"Omnisharp",
+				"OmniSharpSublime: Rename"
+			],
+			[
+				"Shaderlab",
+				"Set Syntax: Unity ShaderLab"
+			],
+			[
+				"Unity",
+				"Set Syntax: UnityShader"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"C",
+				"Set Syntax: C"
+			],
+			[
+				"hlsl",
+				"Set Syntax: High Level SL"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"Delte",
+				"File: Delete"
+			],
+			[
+				"Delete",
+				"File: Delete"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"deete",
+				"File: Delete"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"SublimeLinter: ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"Show ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"next  od",
+				"OmniSharpSublime: Next Code Issue"
+			],
+			[
+				"Goto",
+				"OmniSharpSublime: Goto Definition"
+			],
+			[
+				"show error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"Fix",
+				"OmniSharpSublime: Fix Code Issue"
+			],
+			[
+				"Syntax: C",
+				"Set Syntax: C"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Paclage",
+				"Package Control: List Packages"
+			],
+			[
+				"shader",
+				"Set Syntax: Unity ShaderLab"
+			],
+			[
+				"Cmake",
+				"CMakeBuilder: New Project"
+			],
+			[
+				"Disco",
+				"Discord Rich Presence: Disconnect"
+			],
+			[
+				"Discord",
+				"Discord Rich Presence: Connect to Discord"
+			],
+			[
+				"newnew",
+				"File: New File Relative to Current View"
+			],
+			[
+				"tex",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"rust",
+				"Set Syntax: Rust"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"text pastry from",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"deleete",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 553.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Programming/Projects/ShaderForge",
+		"/D/Programming/Projects/ShaderForge/Shader Forge"
+	],
+	"file_history":
+	[
+		"/D/Programming/Projects/FunWithShaders/Assets/testShaderGradients2.shader",
+		"/D/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/CombatController.cs",
+		"/D/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/CombatController3D.cs",
+		"/D/Programming/Projects/main_game_lfs/Assets/LWG/Code/Utilities/UnityExtensions/AnimatorExtensions.cs",
+		"/D/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Player/Code/PlayerCombatStats.cs",
+		"/D/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/ScantyTestSword/ScantyTestController.cs",
+		"/D/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Stats/IEditableCombatStats.cs",
+		"/D/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Player/Code/PlayerController.cs",
+		"/D/Programming/Projects/main_game_lfs/mini_clungeons.sublime-project",
+		"/C/Users/Clark/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/C/Users/Clark/Desktop/UnityHex.txt",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Utilities/UnityExtensions/AnimatorExtensions.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/CombatController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Movement/ActorMovement.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Player/Code/PlayerController.cs",
+		"/C/Users/Clark/Desktop/clark_feh/FEH_HM1.ahk",
+		"/C/Users/Clark/Desktop/clark_feh/sick_logs.txt",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Stats/ICombatStats.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Player/Code/PlayerCombatStats.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Editor/Windows/OdinProjectValidator.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Utilities/Utilities.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/IReceivesAttack.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Player/Code/PlayerHealth.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/CombatController3D.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/ScantyTestSword/ScantyTestController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/EventSubscribers/CameraShakeOnReceive.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Movement/ForcedMovementPrimer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/StateMachines/State.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/EventSubscribers/CameraShakeOnHit.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/StateMachines/TimerState.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/IAIComponent.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/SpearDudeWanderAI.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/3-Environments/ProcGen/Code/DungeonGenerator.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/Burb/BurbController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/BurbWanderAI.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/GeneralAIController.cs",
+		"/C/Users/Clark/Downloads/example.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/DeleteMe.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/SpearDude/SpearDudeController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/Scrub/ScrubController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/SpearDudeStabAI.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/SpearDudePursueAI.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/SpearDudeLungeAI.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/BurbPursueAI.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/BurbDiveAI.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/StateMachines/FiniteStateMachine.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/StateMachines/IState.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Enemies/SpearDudeWanderComponent.cs",
+		"/C/Users/Clark/AppData/Local/Temp/OdinProjectValidator.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Editor/Windows/OdinScriptableObjectValidator.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Editor/Windows/OdinPrefabValidator.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Player/Code/PersistentContainers/PlayerPersistentData.cs",
+		"/C/Users/Clark/Desktop/Source/Source/Sirenix.OdinInspector.Editor/Utilities/OdinSceneValidatorWindow.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Player/Code/PersistentContainers/PlayerCombatStatsData.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Editor/Drawers/UnityLayerDrawer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/9-Utility/Code/WarnIfOffsetFromParent.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Movement/ActorMovementProperties.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Movement/Controller2D.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Movement/AMPPlayer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Utilities/UnityLayer.cs",
+		"/C/Users/Clark/AppData/Local/Temp/Temp1_Source.zip/Source/Sirenix.Utilities.Editor/GUI/OdinInspectorValidationChecker.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/HitLag.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/HealthComponent.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/SimpleAttack.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/SimpleAttackLibrary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Player/Code/PersistentContainers/PlayerHealthData.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/IHealthComponent.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/AttackTags.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Player/Code/PersistentContainers/PlayerEnchantmentData.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Stats/CombatStatsPackage.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/Attack.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/4-Enchantment/Implementations/ChainLightningOnFinalHit/EnchChainLightningOnFinalHit.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Stats/CombatStats.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Sound/FMODEmitterHandler.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/.gitignore",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/4-Enchantment/Common/Code/EnchInterface/EnchantmentHolder.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/4-Enchantment/Common/Code/EnchInterface/EnchantmentBox.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/TabExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/MinMaxValueValueExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/ValueDropdownExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/AttackLibrary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Common/Code/EnemyMetadataLibrary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Utilities/SerDictionary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Movement/PhysicalPropertyLibrary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/EventSubscribers/FMODOnReceiveDecayEmitter.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/GameState/Code/GameScreenEffects.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Effects/FMODSimpleEventDict.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Common/Code/LocalParticleEffects.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor/OdinGettingStartedWizard.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor/VectorIntDrawers.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/TitleExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor/VectorIntFormatters.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Odin Inspector/Scripts/Editor/BuildAOTAutomation.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/DrawWithUnityExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Common/Code/Sensors/RadialSensor2D.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/EventSubscribers/ParticlesOnReceive.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Movement/PhysicalProperties.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/EnumPagingExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/ColorPaletteExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/MultiLinePropertyExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Editor/CombatControllerWindow.cs",
+		"/C/Users/Clark/AppData/Local/Temp/Temp1_Source.zip/Source/Sirenix.OdinInspector.Attributes/Attributes/ValueDropdownAttribute.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/2-Actors/Common/Code/Sensors/BasicSensor2D.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Editor/CombatControllerEditor.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/4-Enchantment/Common/Code/EnchInterface/EnchantmentSpawner.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/ButtonExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/External/Rewired/Internal/Scripts/InputManager.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/DictionaryExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/HorizontalGroupAttributeExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Commands/ForceScriptableObjectsToSerialize.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/ProcGen/Code/DungeonGenerator.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Editor/Drawers/SerDictionaryDrawer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Utilities/Attributes/SerDictionaryAttribute.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/External/OdinInspector/Editor/ScriptableObjectCreator.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/LWG/Code/Editor/Menu/ApplySelectedPrefabs.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/UnityPreviewFieldsExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Custom Drawer Examples/Scripts/CustomDrawerExample.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/FMOD/RuntimeUtils.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Odin Attributes Overview/Scripts/AssetListExamples.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/Sirenix/Demos/Custom Drawer Examples/Scripts/GenericDrawerExample.cs",
+		"/C/Users/Clark/Desktop/coolshit.json",
+		"/C/Users/Clark/Desktop/results.TXT",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Camera/Code/CameraShake2D.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/4-Enchantment/Implementations/AoeOnJump/EnchAoeOnJump.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Camera/Code/RoundPositionToPixel.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Combat/Code/Attacking/CC3DHook.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/mini_clungeons.sublime-project",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Game/5-Systems/Camera/Code/PlayerCameraFollow2D.cs"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "shader-forge.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								785,
+								785
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"SL.130.region_keys":
+							[
+							],
+							"SL.14.region_keys":
+							[
+							],
+							"SL.53.region_keys":
+							[
+							],
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Shader Forge/Assembly-CSharp.csproj",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Shader Forge/Assets/ShaderForge/Editor/Code/_Utility/GUILines.cs.meta",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Shader Forge/Assets/ShaderForge/Editor/Code/_Utility/GUILines.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"SL.20.region_keys":
+							[
+								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.56.region_keys":
+							[
+								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
+							],
+							"SL.61.region_keys":
+							[
+								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
+							],
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "Shader Forge/Assets/ShaderForge/Editor/Code/_Utility/GUILines.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								297
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"SL.20.region_keys":
+							[
+								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.56.region_keys":
+							[
+								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
+							],
+							"SL.61.region_keys":
+							[
+								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
+							],
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 109.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 103.0
+	},
+	"output.exec":
+	{
+		"height": 357.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 270.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 202.0
+	},
+	"pinned_build_system": "",
+	"project": "shader-forge.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".cs",
+				"Shader Forge\\Assets\\ShaderForge\\Editor\\Code\\_Utility\\GUILines.cs"
+			],
+			[
+				"proj",
+				"shader-forge.sublime-project"
+			],
+			[
+				"CameController",
+				"Assets\\Game\\5-Systems\\GameState\\Code\\GameController.cs"
+			],
+			[
+				"GameCon",
+				"Assets\\Game\\GameConstants.cs"
+			],
+			[
+				"Arbitrary",
+				"Assets\\Game\\5-Systems\\Camera\\Code\\ArbitraryTimedScreenEffect.cs"
+			],
+			[
+				"PlayerCon",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PlayerController.cs"
+			],
+			[
+				"PlayerPersis",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PersistentContainers\\PlayerPersistentData.cs"
+			],
+			[
+				"PlayerPer",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PersistentContainers\\PlayerPersistentData.cs"
+			],
+			[
+				"PersistantPlayer",
+				"Assets\\Game\\2-Actors\\Player\\Tests\\Playmode\\PlayerPersistentData\\TestPlayerPersistentData.cs"
+			],
+			[
+				"GameController",
+				"Assets\\Game\\5-Systems\\GameState\\Code\\GameController.cs"
+			],
+			[
+				"PlayerHealthData",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PersistentContainers\\PlayerHealthData.cs"
+			],
+			[
+				"CombatCon",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\CombatController3D.cs"
+			],
+			[
+				"PlayerOCn",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PlayerController.cs"
+			],
+			[
+				"PlayerCOn",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PlayerController.cs"
+			],
+			[
+				"PLayerCon",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PlayerController.cs"
+			],
+			[
+				"project",
+				"mini_clungeons.sublime-project"
+			],
+			[
+				"PlaerCon",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PlayerController.cs"
+			],
+			[
+				"AnimatorE",
+				"Assets\\LWG\\Code\\Utilities\\UnityExtensions\\AnimatorExtensions.cs"
+			],
+			[
+				"PlayerCom",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PlayerCombatStats.cs"
+			],
+			[
+				"Scanty",
+				"Assets\\Game\\2-Actors\\Enemies\\ScantyTestSword\\ScantyTestController.cs"
+			],
+			[
+				"Icombat",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Stats\\ICombatStats.cs"
+			],
+			[
+				"ICombat",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Stats\\ICombatStats.cs"
+			],
+			[
+				"Animator",
+				"Assets\\LWG\\Code\\Utilities\\UnityExtensions\\AnimatorExtensions.cs"
+			],
+			[
+				"CombatCont",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\CombatController3D.cs"
+			],
+			[
+				"ICom",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Stats\\ICombatStats.cs"
+			],
+			[
+				"Ied",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Stats\\IEditableCombatStats.cs"
+			],
+			[
+				"ICombats",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Stats\\ICombatStats.cs"
+			],
+			[
+				"SCanty",
+				"Assets\\Game\\2-Actors\\Enemies\\ScantyTestSword\\ScantyTestController.cs"
+			],
+			[
+				"Odin",
+				"Assets\\LWG\\Code\\Editor\\Windows\\OdinProjectValidator.cs"
+			],
+			[
+				"Animat",
+				"Assets\\LWG\\Code\\Utilities\\UnityExtensions\\AnimatorExtensions.cs"
+			],
+			[
+				"Utilities",
+				"Assets\\LWG\\Code\\Utilities\\Utilities.cs"
+			],
+			[
+				"CombatController3D",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\CombatController3D.cs"
+			],
+			[
+				"PlayerHealth",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PlayerHealth.cs"
+			],
+			[
+				"Cameraa",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\EventSubscribers\\CameraShakeOnReceive.cs"
+			],
+			[
+				"OnHit",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\EventSubscribers\\CameraShakeOnHit.cs"
+			],
+			[
+				"IRece",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\IReceivesAttack.cs"
+			],
+			[
+				"CameraShakeOn",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\EventSubscribers\\CameraShakeOnHit.cs"
+			],
+			[
+				"ForcedMo",
+				"Assets\\Game\\5-Systems\\Movement\\ForcedMovementPrimer.cs"
+			],
+			[
+				"State",
+				"Assets\\LWG\\Code\\StateMachines\\State.cs"
+			],
+			[
+				"Timer",
+				"Assets\\LWG\\Code\\StateMachines\\TimerState.cs"
+			],
+			[
+				"IAICom",
+				"Assets\\Game\\2-Actors\\Enemies\\IAIComponent.cs"
+			],
+			[
+				"GeneralA",
+				"Assets\\Game\\2-Actors\\Enemies\\GeneralAIController.cs"
+			],
+			[
+				"ScantyTest",
+				"Assets\\Game\\2-Actors\\Enemies\\ScantyTestSword\\ScantyTestController.cs"
+			],
+			[
+				"Finite",
+				"Assets\\LWG\\Code\\StateMachines\\FiniteStateMachine.cs"
+			],
+			[
+				"General",
+				"Assets\\Game\\2-Actors\\Enemies\\GeneralAIController.cs"
+			],
+			[
+				"Burb",
+				"Assets\\Game\\2-Actors\\Enemies\\BurbPursueAI.cs"
+			],
+			[
+				"FiniteState",
+				"Assets\\LWG\\Code\\StateMachines\\FiniteStateMachine.cs"
+			],
+			[
+				"Istate",
+				"Assets\\LWG\\Code\\StateMachines\\IState.cs"
+			],
+			[
+				"IState",
+				"Assets\\LWG\\Code\\StateMachines\\IState.cs"
+			],
+			[
+				"SpearDudeWander",
+				"Assets\\Game\\2-Actors\\Enemies\\SpearDudeWanderAI.cs"
+			],
+			[
+				"SpearDudeStabAI",
+				"Assets\\Game\\2-Actors\\Enemies\\SpearDudeStabAI.cs"
+			],
+			[
+				"SpearDudeP",
+				"Assets\\Game\\2-Actors\\Enemies\\SpearDudePursueAI.cs"
+			],
+			[
+				"SpearDudeLun",
+				"Assets\\Game\\2-Actors\\Enemies\\SpearDudeLungeAI.cs"
+			],
+			[
+				"BurbWander",
+				"Assets\\Game\\2-Actors\\Enemies\\BurbWanderAI.cs"
+			],
+			[
+				"BurbPur",
+				"Assets\\Game\\2-Actors\\Enemies\\BurbPursueAI.cs"
+			],
+			[
+				"IAI",
+				"Assets\\Game\\2-Actors\\Enemies\\IAIComponent.cs"
+			],
+			[
+				"SpearDudeW",
+				"Assets\\Game\\2-Actors\\Enemies\\SpearDudeWanderComponent.cs"
+			],
+			[
+				"GeneralAi",
+				"Assets\\Game\\2-Actors\\Enemies\\GeneralAIController.cs"
+			],
+			[
+				"Controller",
+				"Assets\\Game\\2-Actors\\Enemies\\SpearDude\\SpearDudeController.cs"
+			],
+			[
+				"OdinPre",
+				"Assets\\LWG\\Code\\Editor\\Windows\\OdinProjectValidator.cs"
+			],
+			[
+				"OdinPrefab",
+				"Assets\\LWG\\Code\\Editor\\Windows\\OdinPrefabValidator.cs"
+			],
+			[
+				"OdinSc",
+				"Assets\\LWG\\Code\\Editor\\Windows\\OdinScriptableObjectValidator.cs"
+			],
+			[
+				"PlayerCombatStats",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PlayerCombatStats.cs"
+			],
+			[
+				"TimerState",
+				"Assets\\LWG\\Code\\StateMachines\\TimerState.cs"
+			],
+			[
+				"TimerS",
+				"Assets\\LWG\\Code\\StateMachines\\TimerState.cs"
+			],
+			[
+				"AICon",
+				"Assets\\Game\\2-Actors\\Enemies\\GeneralAIController.cs"
+			],
+			[
+				"PlayerCont",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PlayerController.cs"
+			],
+			[
+				"GeneralAI",
+				"Assets\\Game\\2-Actors\\Enemies\\GeneralAIController.cs"
+			],
+			[
+				"UnityLa",
+				"Assets\\LWG\\Code\\Utilities\\UnityLayer.cs"
+			],
+			[
+				"AMPPlayer",
+				"Assets\\Game\\5-Systems\\Movement\\AMPPlayer.cs"
+			],
+			[
+				"Control",
+				"Assets\\Game\\5-Systems\\Movement\\Controller2D.cs"
+			],
+			[
+				"ActorMovement",
+				"Assets\\Game\\5-Systems\\Movement\\ActorMovementProperties.cs"
+			],
+			[
+				"Combatcontrol",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\CombatController3D.cs"
+			],
+			[
+				"PlayerController",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PlayerController.cs"
+			],
+			[
+				"Wander",
+				"Assets\\Game\\2-Actors\\Enemies\\SpearDudeWanderComponent.cs"
+			],
+			[
+				"SImpleAtta",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\SimpleAttack.cs"
+			],
+			[
+				"SimpleAttackLib",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\SimpleAttackLibrary.cs"
+			],
+			[
+				"Combatcon",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\CombatController3D.cs"
+			],
+			[
+				"SimpleAttackLIb",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\SimpleAttackLibrary.cs"
+			],
+			[
+				"Simple",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\SimpleAttack.cs"
+			],
+			[
+				"IHealthCom",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\IHealthComponent.cs"
+			],
+			[
+				"HealtHCom",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\HealthComponent.cs"
+			],
+			[
+				"IHealth",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\IHealthComponent.cs"
+			],
+			[
+				"HealthCom",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\HealthComponent.cs"
+			],
+			[
+				"PlayerCombatS",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PersistentContainers\\PlayerCombatStatsData.cs"
+			],
+			[
+				"PlayerPersistent",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PersistentContainers\\PlayerPersistentData.cs"
+			],
+			[
+				"PlayerCombat",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PersistentContainers\\PlayerCombatStatsData.cs"
+			],
+			[
+				"PlayerCombatStatsD",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PersistentContainers\\PlayerCombatStatsData.cs"
+			],
+			[
+				"IPlayerData",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PersistentContainers\\PlayerHealthData.cs"
+			],
+			[
+				"PlayerEc",
+				"Assets\\Game\\2-Actors\\Player\\Code\\PersistentContainers\\PlayerEnchantmentData.cs"
+			],
+			[
+				"TCombatcon",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\CombatController3D.cs"
+			],
+			[
+				"SimpleAttaclL",
+				"Assets\\Game\\4-Enchantment\\Implementations\\ChainLightningOnFinalHit\\EnchChainLightningOnFinalHit.cs"
+			],
+			[
+				"CombatControll",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\CombatController3D.cs"
+			],
+			[
+				"UnityLayer",
+				"Assets\\LWG\\Code\\Utilities\\UnityLayer.cs"
+			],
+			[
+				"SimpleAt",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\SimpleAttack.cs"
+			],
+			[
+				"CombatStasP",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Stats\\CombatStatsPackage.cs"
+			],
+			[
+				"AttackT",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\AttackTags.cs"
+			],
+			[
+				"attack",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\Attack.cs"
+			],
+			[
+				"Attack",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\Attack.cs"
+			],
+			[
+				"CombatstatsPack",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Stats\\CombatStatsPackage.cs"
+			],
+			[
+				"AICom",
+				"Assets\\Game\\2-Actors\\Enemies\\IAIComponent.cs"
+			],
+			[
+				"CombatStats",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Stats\\CombatStatsPackage.cs"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"ValueDrop",
+				"Assets\\Plugins\\Sirenix\\Demos\\Odin Attributes Overview\\Scripts\\ValueDropdownExamples.cs"
+			],
+			[
+				"FMODE",
+				"Assets\\Game\\5-Systems\\Sound\\FMODEmitterHandler.cs"
+			],
+			[
+				"SimpleAtta",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\SimpleAttack.cs"
+			],
+			[
+				"Enchantmentbox",
+				"Assets\\Game\\4-Enchantment\\Common\\Code\\EnchInterface\\EnchantmentBox.cs"
+			],
+			[
+				"burbCon",
+				"Assets\\Game\\2-Actors\\Enemies\\Burb\\BurbController.cs"
+			],
+			[
+				"EnchantmentBox",
+				"Assets\\Game\\4-Enchantment\\Common\\Code\\EnchInterface\\EnchantmentBox.cs"
+			],
+			[
+				"EnchanemtnHOl",
+				"Assets\\Game\\4-Enchantment\\Common\\Code\\EnchInterface\\EnchantmentHolder.cs"
+			],
+			[
+				"ActorMove",
+				"Assets\\Game\\5-Systems\\Movement\\ActorMovementProperties.cs"
+			],
+			[
+				"SErDic",
+				"Assets\\LWG\\Code\\Utilities\\SerDictionary.cs"
+			],
+			[
+				"AttackLib",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\AttackLibrary.cs"
+			],
+			[
+				"SerDic",
+				"Assets\\LWG\\Code\\Utilities\\SerDictionary.cs"
+			],
+			[
+				"Unity",
+				"Assets\\LWG\\Code\\Utilities\\UnityLayer.cs"
+			],
+			[
+				"BasicSens",
+				"Assets\\Game\\2-Actors\\Common\\Code\\Sensors\\BasicSensor2D.cs"
+			],
+			[
+				"BasicSEn",
+				"Assets\\Game\\2-Actors\\Common\\Code\\Sensors\\BasicSensor2D.cs"
+			],
+			[
+				"CombatController",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Editor\\CombatControllerEditor.cs"
+			],
+			[
+				"CombatcontrollerWindow",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Editor\\CombatControllerWindow.cs"
+			],
+			[
+				"buttonEx",
+				"Assets\\Plugins\\Sirenix\\Demos\\Odin Attributes Overview\\Scripts\\ButtonExamples.cs"
+			],
+			[
+				"PhysicalPropertyLib",
+				"Assets\\Game\\5-Systems\\Movement\\PhysicalPropertyLibrary.cs"
+			],
+			[
+				"PhysicalP",
+				"Assets\\Game\\5-Systems\\Movement\\PhysicalPropertyLibrary.cs"
+			],
+			[
+				"GameScreen",
+				"Assets\\Game\\5-Systems\\GameState\\Code\\GameScreenEffects.cs"
+			],
+			[
+				"FMODReceive",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\EventSubscribers\\FMODOnReceiveDecayEmitter.cs"
+			],
+			[
+				"FMOD",
+				"Assets\\LWG\\Code\\Effects\\FMODSimpleEventDict.cs"
+			],
+			[
+				"SimpleAttackLi",
+				"Assets\\Game\\5-Systems\\Combat\\Code\\Attacking\\SimpleAttackLibrary.cs"
+			],
+			[
+				"LocalPar",
+				"Assets\\Game\\2-Actors\\Common\\Code\\LocalParticleEffects.cs"
+			],
+			[
+				"EnemyMeta",
+				"Assets\\Game\\2-Actors\\Common\\Code\\EnemyMetadataLibrary.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rename",
+				"PlayerEnchantments"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
