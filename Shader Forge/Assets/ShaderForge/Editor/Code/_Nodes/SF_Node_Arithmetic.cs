@@ -38,11 +38,27 @@ namespace ShaderForge {
 			return max;
 		}
 
+		// NOTE(clark): Probably a bug here.
 		public override bool IsUniformOutput() {
 
+
 			if(InputsConnected()){
-				if( connectors.Length > 2)
-					return ( GetInputData( "A" ).uniform && GetInputData( "B" ).uniform );
+				Debug.Log("Inputs connected: " + connectors.Length + this.nodeName);
+				if( connectors.Length > 2) {
+					bool uniform = GetInputData( "A" ).uniform && GetInputData( "B" ).uniform;
+
+					if(GetInputIsConnected("C")){
+						uniform &= GetInputData("C").uniform;
+					}
+					if(GetInputIsConnected("D")){
+						uniform &= GetInputData("D").uniform;
+					}
+					if(GetInputIsConnected("E")){
+						uniform &= GetInputData("E").uniform;
+					}
+				
+					return uniform;
+				}
 				return ( GetInputData( "IN" ).uniform );
 			}
 			return true;

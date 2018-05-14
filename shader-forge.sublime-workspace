@@ -529,6 +529,15 @@
 			}
 		},
 		{
+			"file": "Shader Forge/Assets/ShaderForge/Editor/Code/SF_EditorNodeView.cs",
+			"settings":
+			{
+				"buffer_size": 24406,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "Shader Forge/Assembly-CSharp.csproj",
 			"settings":
 			{
@@ -550,6 +559,7 @@
 			"settings":
 			{
 				"buffer_size": 13361,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -581,6 +591,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"OMniShar code",
+				"OmniSharpSublime: Next Code Issue"
+			],
 			[
 				"project",
 				"Project: Save As"
@@ -1114,7 +1128,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1155,11 +1169,83 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "Shader Forge/Assets/ShaderForge/Editor/Code/SF_EditorNodeView.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13226,
+								13226
+							]
+						],
+						"settings":
+						{
+							"SL.23.region_keys":
+							[
+								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.annotations.Highlights.|ebdc5cf3ee1511b559e16f64372c0c2d2bb076100d1b127d4aeba998ee990e30|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Highlights.|450c7a44a12e7de067609e9d6c095f92e1296bc02a1b73d249d1743c942e0ca0|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.annotations.Highlights.|4c2dcffd305a6710cf4b37b53d9b92478f36e1d63d407ec6bb5c9ea830f5077c|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"oops":
+							{
+								"1058,1075": "Empty constructor is redundant.",
+								"10736,10741": "Argument value is redundant",
+								"1116,1120": "'base.' is redundant and can be removed safely.",
+								"11274,11279": "Argument value is redundant",
+								"116,121": "Using directive is not used by code and can be removed safely.",
+								"12691,12699": "Parameter can be IDependable",
+								"13243,13266": "Method 'TryGetProceduralTexture' can be made static.",
+								"13470,13471": "Equal expression comparison",
+								"14127,14134": "Assignment is redundant",
+								"1457,1458": "'string.CompareTo' is culture-aware",
+								"15468,15472": "Redundant 'else' keyword",
+								"16913,16914": "Empty statement is redundant",
+								"18516,18519": "'for' loop can be converted to 'foreach'",
+								"18908,18921": "Argument value is redundant",
+								"20674,20675": "Parameter 'r' is never used",
+								"20725,20727": "Convert to '&=' expresssion",
+								"22713,22715": "Convert to '|=' expresssion",
+								"22998,23000": "Convert to 'return' statement",
+								"23122,23126": "Redundant 'else' keyword",
+								"2501,2506": "Initializing field by default value is redundant",
+								"2723,2726": "'for' loop can be converted to 'foreach'",
+								"2808,2811": "'for' loop can be converted to 'foreach'",
+								"38,43": "Using directive is not used by code and can be removed safely.",
+								"4805,4810": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"4932,4936": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"5865,5874": "Method 'ClampZoom' can be made static.",
+								"7740,7742": "Convert to '|=' expresssion",
+								"775,780": "Initializing field by default value is redundant",
+								"8221,8226": "Argument value is redundant",
+								"9649,9656": "Using member of null value will cause a NullReferenceException",
+								"9779,9781": "Type check and casts can be replaced with 'as' and null check",
+								"98,103": "Using directive is not used by code and can be removed safely."
+							},
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7457.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "Shader Forge/Assembly-CSharp.csproj",
 					"semi_transient": false,
 					"settings":
@@ -1188,11 +1274,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "Shader Forge/Assets/ShaderForge/Editor/Code/_Utility/GUILines.cs.meta",
 					"semi_transient": false,
 					"settings":
@@ -1219,11 +1305,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "Shader Forge/Assets/ShaderForge/Editor/Code/_Utility/GUILines.cs",
 					"semi_transient": false,
 					"settings":
@@ -1245,8 +1331,8 @@
 							[
 								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
 								"sublime_linter.protected_regions",
-								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32",
-								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32"
+								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32"
 							],
 							"SL.20.region_keys":
 							[
@@ -1269,6 +1355,18 @@
 								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32",
 								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
 							],
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"11526,11532": "Parameter 'editor' is never used",
+								"117,125": "This class is recommended to be defined as static",
+								"12506,12512": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"12886,12892": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"1528,1531": "Redundant array creation expression",
+								"1532,1539": "Redundant explicit array type specification",
+								"4731,4733": "Convert to '?:' expression",
+								"52,57": "Using directive is not used by code and can be removed safely."
+							},
 							"syntax": "Packages/C#/C#.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
@@ -1276,7 +1374,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1286,7 +1384,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "Shader Forge/Assets/ShaderForge/Editor/Code/_Utility/GUILines.cs",
 					"semi_transient": false,
 					"settings":
@@ -1298,8 +1396,8 @@
 						"selection":
 						[
 							[
-								296,
-								297
+								795,
+								795
 							]
 						],
 						"settings":
@@ -1308,8 +1406,8 @@
 							[
 								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
 								"sublime_linter.protected_regions",
-								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32",
-								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32"
+								"SL.annotations.Highlights.|1200ccd598d1f8f2e0ef1750c003ee3034616eee443a1972ce7ca8cd51434bce|region.yellowish markup.warning.sublime_linter|32",
+								"SL.annotations.Highlights.|a93422ad1bf4ea476cfada84733f2ba4236a9fbbf3cba9570650bb93d6204def|region.yellowish markup.warning.sublime_linter|32"
 							],
 							"SL.20.region_keys":
 							[
@@ -1336,10 +1434,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 916.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1968,7 +2066,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 282.0,
 	"status_bar_visible": true,
 	"template_settings":
