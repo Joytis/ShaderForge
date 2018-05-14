@@ -40,22 +40,16 @@ namespace ShaderForge {
 
 		// NOTE(clark): Probably a bug here.
 		public override bool IsUniformOutput() {
-
-
 			if(InputsConnected()){
-				Debug.Log("Inputs connected: " + connectors.Length + this.nodeName);
 				if( connectors.Length > 2) {
 					bool uniform = GetInputData( "A" ).uniform && GetInputData( "B" ).uniform;
 
-					if(GetInputIsConnected("C")){
+					if(connectors.Length > 3 && GetInputIsConnected("C"))
 						uniform &= GetInputData("C").uniform;
-					}
-					if(GetInputIsConnected("D")){
+					if(connectors.Length > 4 && GetInputIsConnected("D"))
 						uniform &= GetInputData("D").uniform;
-					}
-					if(GetInputIsConnected("E")){
+					if(connectors.Length > 5 && GetInputIsConnected("E"))
 						uniform &= GetInputData("E").uniform;
-					}
 				
 					return uniform;
 				}
